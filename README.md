@@ -23,7 +23,7 @@ gulp.task('gtm', function(){
 
 ```
 
-The following code will be insterted directly after the opening <body> tag:
+The following code will be insterted directly after the opening body tag:
 ```html
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-XXXX"
