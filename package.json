@@ -1,6 +1,6 @@
 {
   "name": "gulp-gtm",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Inject Google Tag Manager (GTM) script into HTML <head> with Gulp.",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,6 @@
   "author": "Donald Hanson",
   "license": "ISC",
   "dependencies": {
-    "gulp-util": "^3.0.7",
     "through2": "^2.0.1"
   }
 }
